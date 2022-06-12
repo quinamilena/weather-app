@@ -7,7 +7,7 @@ Aplicativo para visualizar o clima de uma cidade, pesquisando pelo seu nome.
 Clone o projeto
 
 ```bash
-  git clone https://link-para-o-projeto
+  git clone https://github.com/quinamilena/weather-app.git
 ```
 
 Entre no diretório do projeto
