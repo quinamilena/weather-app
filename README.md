@@ -28,7 +28,7 @@ Inicie o servidor
   npm run start
 ```
 
-## Screenshots
+## 📷 Screenshots
 
 ![weather-app-image](./infoReadme/weather-app-image.png)
 
